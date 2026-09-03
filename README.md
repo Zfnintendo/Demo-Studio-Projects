@@ -1,4 +1,4 @@
 # Demo-Studio-Projects
 A collection of small things I scripted in Roblox Studio, these are just files that contain the code for some of the projects.
 
-Note: Rojo is not setup in this repository so if you want to use the code from here you have to set it up yourself.
+Note: Rojo is not setup in this repository so if you want to use the code from here you have to set it up yourself. The parents of each script should be after the first "." so you know where to place them if you ever use this.
